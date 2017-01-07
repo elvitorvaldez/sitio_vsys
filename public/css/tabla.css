@@ -1,0 +1,33 @@
+
+td, th {
+	padding: 0.5em;
+	border: 1px solid #CCC;
+	/*white-space: nowrap;
+	overflow: hidden;*/
+}
+
+/*th {
+   white-space: pre;
+}*/
+
+thead, tfoot {
+	background-color: #DDD;
+}
+
+tr.rowodd {
+	background-color: #FFF;
+}
+
+tr.roweven {
+	background-color: #F2F2F2;
+}
+
+
+
+
+
+th.resize-handle-active {
+	cursor: e-resize;
+}
+
+
